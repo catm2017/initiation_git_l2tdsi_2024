@@ -1,4 +1,4 @@
-# intiation_git_l2tdisi_2024
+# initiation_git_l2tdsi_2024
 Initiation à Git
 Programme Dev Web L2TDSI
 1- Initiation à Git
