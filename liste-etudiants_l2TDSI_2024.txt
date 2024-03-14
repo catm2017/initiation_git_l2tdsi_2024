@@ -18,3 +18,4 @@ Numéro carte, Prénom, Nom, Option
 >>>>>>> 85ff6b76ee8d2085853a9182e398fb9ebd4b38db
 202208G68 Amadou Diogo BA MCS
 20220BG6B Makhtar Seck MCS
+20220BG6J Alassane Laye Diop CI
