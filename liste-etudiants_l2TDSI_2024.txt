@@ -20,3 +20,4 @@ Numéro carte, Prénom, Nom, Option
 20220BG6B Makhtar Seck MCS
 20220BG6J Alassane Laye Diop CI
 20220BG6C Mamadou Issa Diedhiou MCS
+20220B54X Mouhamad Al Amine Ba MCS
