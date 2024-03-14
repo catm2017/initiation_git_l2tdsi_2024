@@ -10,4 +10,9 @@ Numéro carte, Prénom, Nom, Option
 20220BHVV Aissatou Mbengue CI
 20210ACVM MOUHAMADOU TOUBA TOURE CI
 20210AKSW IBRAHIMA   DIALLO      MCS
+<<<<<<< HEAD
 20220B9SC Moussa Diakhate   MCS
+=======
+20220BG8C Die Mbaye MCS
+20220AXQ  Ndiame Laye Gueye      MCS
+>>>>>>> 85ff6b76ee8d2085853a9182e398fb9ebd4b38db
