@@ -9,4 +9,4 @@ Numéro carte, Prénom, Nom, Option
 20220BG6D Mamadou Moustapha DIAW MCS
 20220BHVV Aissatou Mbengue CI
 20210ACVM MOUHAMADOU TOUBA TOURE CI
-
+20210AKSW IBRAHIMA   DIALLO      MCS
