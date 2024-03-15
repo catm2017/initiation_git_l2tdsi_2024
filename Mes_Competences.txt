@@ -1,0 +1,6 @@
+20220BHVV Aissatou Mbengue CI
+Java 30%
+HTML_CSS_JS 20%
+BD 80%
+Reseau 50%
+Linux 40%
