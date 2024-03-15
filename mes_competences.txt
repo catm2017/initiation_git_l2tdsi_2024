@@ -1,0 +1,6 @@
+20200A81M Amadou Sagaleyni Aidara
+java 30%
+php 15%
+javascript 60%
+base de donnes 50%
+dev web 10%

@@ -1,0 +1,58 @@
+
+C:\Users\DELL>cd documents
+
+C:\Users\DELL\Documents>cd dev_web
+
+C:\Users\DELL\Documents\dev_web>git clone https://github.com/catm2017/initiation_git_l2tdisi_2024.git
+Cloning into 'initiation_git_l2tdisi_2024'...
+remote: Enumerating objects: 29, done.
+remote: Counting objects: 100% (29/29), done.
+remote: Compressing objects: 100% (22/22), done.
+remote: Total 29 (delta 11), reused 17 (delta 5), pack-reused 0
+Receiving objects: 100% (29/29), 4.10 KiB | 1.02 MiB/s, done.
+Resolving deltas: 100% (11/11), done.
+
+C:\Users\DELL\Documents\dev_web>cd initiation_git_l2tdisi_2024.git
+Le chemin d’accès spécifié est introuvable.
+
+C:\Users\DELL\Documents\dev_web>cd ..
+
+C:\Users\DELL\Documents>cd dev_web\initiation_git_l2tdisi_2024.git
+Le chemin d’accès spécifié est introuvable.
+
+C:\Users\DELL\Documents>cd dev_web\initiation_git_l2tdisi_2024
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git add .
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git add .
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git commit -m"Aidara"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   liste-etudiants_l2TDSI_2024.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git add liste-etudiants_l2TDSI_2024.txt
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git commit -m"Aidara"
+[main d1ec77f] Aidara
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git push
+info: please complete authentication in your browser...
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 311 bytes | 311.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/catm2017/initiation_git_l2tdisi_2024.git
+   2ae0427..d1ec77f  main -> main
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>
