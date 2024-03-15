@@ -1,4 +1,4 @@
-Numéro carte, Prénom, Nom, Option
+"Num�ro carte, Pr�nom, Nom, Option"
 20220BG6F  Mame Maguette DIOUCK MCS
 20220BC5T Thierno Souleymane Mbengue MCS
 20220BG6N Mouhamed Amina DIOUF CI
@@ -23,3 +23,4 @@ Numéro carte, Prénom, Nom, Option
 20220AZSW Rokhyatou Sarr Fall MCS
 20220B4QF Ndeye Khodia Cisse MCS
 20220BG6J Alassane Laye Diop CI
+20220BAMM Mamoudou Boye BA MCS
