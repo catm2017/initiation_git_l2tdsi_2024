@@ -1,0 +1,4 @@
+20220B4QF Ndeye Khodia Cisse
+php 50
+js 20
+BD(mysql sql) 50
