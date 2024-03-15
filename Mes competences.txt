@@ -1,0 +1,4 @@
+20220B18M  Samba  Sall mcs
+php 10%
+java 30%
+js 10%
