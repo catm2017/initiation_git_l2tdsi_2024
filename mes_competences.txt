@@ -1,0 +1,5 @@
+20220BG6F Mame Maguette DIOUCK Licence2 MCS
+html/css(pas assez approfondu)
+php
+sql
+js(j'ai pas encore approfondu)
