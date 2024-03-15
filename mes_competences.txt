@@ -1,0 +1,5 @@
+java 50 %
+javascript 45%
+php 60 %
+base de donnees 70%
+
