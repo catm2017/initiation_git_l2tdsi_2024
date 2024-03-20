@@ -1,0 +1,6 @@
+php=40%
+js=15%
+bootsrap=80%
+msql=97%
+java=86%
+
