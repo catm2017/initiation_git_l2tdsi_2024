@@ -55,4 +55,93 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/catm2017/initiation_git_l2tdisi_2024.git
    2ae0427..d1ec77f  main -> main
 
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git pull
+remote: Enumerating objects: 89, done.
+remote: Counting objects: 100% (89/89), done.
+remote: Compressing objects: 100% (65/65), done.
+remote: Total 85 (delta 50), reused 44 (delta 20), pack-reused 0
+Unpacking objects: 100% (85/85), 13.33 KiB | 39.00 KiB/s, done.
+From https://github.com/catm2017/initiation_git_l2tdisi_2024
+   d1ec77f..b43a9ff  main       -> origin/main
+ * [new branch]      master     -> origin/master
+Updating d1ec77f..b43a9ff
+Fast-forward
+ .gitignore                      |  2 +-
+ README.md                       |  2 +-
+ liste-etudiants_l2TDSI_2024.txt | 24 ++++++++++++++++++++++--
+ 3 files changed, 24 insertions(+), 4 deletions(-)
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git statut
+git: 'statut' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commande git.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git branch sagaleyni
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git checkout
+Your branch is up to date with 'origin/main'.
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git checkout sagaleyni
+Switched to branch 'sagaleyni'
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git status
+On branch sagaleyni
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commande git.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git branch
+  main
+* sagaleyni
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>echo> mes_competences.txt
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git add .
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git commit -m"j'ai ajouter mes modification"
+[sagaleyni 9540412] j'ai ajouter mes modification
+ 2 files changed, 64 insertions(+)
+ create mode 100644 commande git.txt
+ create mode 100644 mes_competences.txt
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git push
+fatal: The current branch sagaleyni has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin sagaleyni
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>git push --set-upstream origin sagaleyni
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.25 KiB | 320.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/catm2017/initiation_git_l2tdsi_2024.git
+remote:
+remote: Create a pull request for 'sagaleyni' on GitHub by visiting:
+remote:      https://github.com/catm2017/initiation_git_l2tdsi_2024/pull/new/sagaleyni
+remote:
+To https://github.com/catm2017/initiation_git_l2tdisi_2024.git
+ * [new branch]      sagaleyni -> sagaleyni
+branch 'sagaleyni' set up to track 'origin/sagaleyni'.
+
 C:\Users\DELL\Documents\dev_web\initiation_git_l2tdisi_2024>
