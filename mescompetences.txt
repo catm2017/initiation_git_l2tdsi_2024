@@ -1,1 +1,5 @@
-Commande ECHO activ‚e.
+20220BG6K francoise Sadio Siga Mendy CI
+Dev web 10%
+php 30%
+JS  20%
+JAVA 16%
