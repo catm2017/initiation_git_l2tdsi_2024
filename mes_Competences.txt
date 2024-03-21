@@ -1,4 +1,0 @@
-php 50%
-mysql 90%
-javascript 70%
-bootstrap 100%
