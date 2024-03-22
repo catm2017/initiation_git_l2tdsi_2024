@@ -1,5 +1,3 @@
 20210ACPC Ndeye Mareme Diongue CI
 PHP 50%
-JAVA 40%
-JAVASCRIPT 50%
 MYSQL 50%
