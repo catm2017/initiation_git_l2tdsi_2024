@@ -1,6 +1,6 @@
 20220BG6J Alassane Laye Diop
-PHP : 10%
-JAVASCRIPT : 50%
-HTML&CSS : 80%
-JAVA : 25%
-C : 40%
+PHP : 1%
+JAVASCRIPT : 5%
+HTML&CSS : 8%
+JAVA : 5%
+C : 4%
