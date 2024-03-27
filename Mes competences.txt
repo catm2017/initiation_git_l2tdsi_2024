@@ -2,3 +2,458 @@
 php 10%
 java 30%
 js 10%
+
+
+
+C:\Users\DELL>git clone https://github.com/catm2017/initiation_git_l2tdsi_2024.git
+Cloning into 'initiation_git_l2tdsi_2024'...
+remote: Enumerating objects: 110, done.
+remote: Counting objects: 100% (110/110), done.
+remote: Compressing objects: 100% (81/81), done.
+remote: Total 110 (delta 63), reused 57 (delta 27), pack-reused 0
+Receiving objects: 100% (110/110), 16.79 KiB | 34.00 KiB/s, done.
+Resolving deltas: 100% (63/63), done.
+
+C:\Users\DELL>cd initiation_git_l2tdsi_2024
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git add .
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "mes informations"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'DELL@DESKTOP-644ASSP.(none)')
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "Mes informations"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'DELL@DESKTOP-644ASSP.(none)')
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git push
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "Mes informations"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'DELL@DESKTOP-644ASSP.(none)')
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>gt config --global sallsamba911@gmail.com
+'gt' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>gt config --global user.email "sallsamba911@gmail.com"
+'gt' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git config --global user.email "sallsamba911@gmail.com"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git config --global user.name "sambasall1"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "Mes informations"
+[main b43a9ff] Mes informations
+ 1 file changed, 1 insertion(+)
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git push
+fatal: User cancelled dialog.
+Username for 'https://github.com': sambasall1
+Password for 'https://sambasall1@github.com':
+fatal: unable to access 'https://github.com/catm2017/initiation_git_l2tdsi_2024.git/': Send failure: Connection was aborted
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git push
+info: please complete authentication in your browser...
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 309 bytes | 77.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/catm2017/initiation_git_l2tdsi_2024.git
+   ad0a5a0..b43a9ff  main -> main
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git pull
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 0), reused 4 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), 425 bytes | 1024 bytes/s, done.
+From https://github.com/catm2017/initiation_git_l2tdsi_2024
+ + cf48695...725991b master     -> origin/master  (forced update)
+Already up to date.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git branch sall_dev
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git chekout sall_dev
+git: 'chekout' is not a git command. See 'git --help'.
+
+The most similar command is
+        checkout
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git checkout sall_dev
+Switched to branch 'sall_dev'
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git status
+On branch sall_dev
+nothing to commit, working tree clean
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git branch
+  main
+* sall_dev
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git add .
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "mes informations"
+[sall_dev 81847b6] mes informations
+ 1 file changed, 4 insertions(+)
+ create mode 100644 Mes competences.txt
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL>git clone https://github.com/catm2017/initiation_git_l2tdsi_2024.git
+'C:\Users\DELL' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Cloning into 'initiation_git_l2tdsi_2024'...
+'Cloning' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>remote: Enumerating objects: 110, done.
+'remote:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>remote: Counting objects: 100% (110/110), done.
+'remote:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>remote: Compressing objects: 100% (81/81), done.
+'remote:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>remote: Total 110 (delta 63), reused 57 (delta 27), pack-reused 0
+'remote:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Receiving objects: 100% (110/110), 16.79 KiB | 34.00 KiB/s, done.
+'Receiving' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Resolving deltas: 100% (63/63), done.
+'Resolving' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL>cd initiation_git_l2tdsi_2024
+'C:\Users\DELL' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git add .
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "mes informations"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Author identity unknown
+'Author' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>*** Please tell me who you are.
+'***' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>Run
+'Run' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>  git config --global user.email "you@example.com"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>  git config --global user.name "Your Name"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>to set your account's default identity.
+'to' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Omit --global to set the identity only in this repository.
+'Omit' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>fatal: unable to auto-detect email address (got 'DELL@DESKTOP-644ASSP.(none)')
+'fatal:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "Mes informations"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Author identity unknown
+'Author' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>*** Please tell me who you are.
+'***' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>Run
+'Run' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>  git config --global user.email "you@example.com"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>  git config --global user.name "Your Name"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>to set your account's default identity.
+'to' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Omit --global to set the identity only in this repository.
+'Omit' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>fatal: unable to auto-detect email address (got 'DELL@DESKTOP-644ASSP.(none)')
+'fatal:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git push
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>
+La syntaxe de la commande n’est pas correcte.
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "Mes informations"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Author identity unknown
+'Author' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>*** Please tell me who you are.
+'***' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>Run
+'Run' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>  git config --global user.email "you@example.com"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>  git config --global user.name "Your Name"
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>to set your account's default identity.
+'to' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Omit --global to set the identity only in this repository.
+'Omit' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>fatal: unable to auto-detect email address (got 'DELL@DESKTOP-644ASSP.(none)')
+'fatal:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>gt config --global sallsamba911@gmail.com
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>'gt' n’est pas reconnu en tant que commande interne
+''gt'' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>ou externe, un programme exécutable ou un fichier de commandes.
+'ou' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>gt config --global user.email "sallsamba911@gmail.com"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>'gt' n’est pas reconnu en tant que commande interne
+''gt'' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>ou externe, un programme exécutable ou un fichier de commandes.
+'ou' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git config --global user.email "sallsamba911@gmail.com"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git config --global user.name "sambasall1"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git commit -m "Mes informations"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>[main b43a9ff] Mes informations
+'[main' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024> 1 file changed, 1 insertion(+)
+'1' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git push
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>fatal: User cancelled dialog.
+'fatal:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Username for 'https://github.com': sambasall1
+'Username' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Password for 'https://sambasall1@github.com':
+'Password' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>fatal: unable to access 'https://github.com/catm2017/initiation_git_l2tdsi_2024.git/': Send failure: Connection was aborted
+'fatal:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git push
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>info: please complete authentication in your browser...
+'info:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Enumerating objects: 5, done.
+'Enumerating' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Counting objects: 100% (5/5), done.
+'Counting' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Delta compression using up to 4 threads
+'Delta' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Compressing objects: 100% (3/3), done.
+'Compressing' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Writing objects: 100% (3/3), 309 bytes | 77.00 KiB/s, done.
+'Writing' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+'Total' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+'remote:' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>To https://github.com/catm2017/initiation_git_l2tdsi_2024.git
+'To' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>   ad0a5a0..b43a9ff  main -> main
+'ad0a5a0..b43a9ff' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
+C:\Users\DELL\initiation_git_l2tdsi_2024>C:\Users\DELL\initiation_git_l2tdsi_2024>git  commit -m "Mes informations"
+'C:\Users\DELL\initiation_git_l2tdsi_2024' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>cd initialisation_git_l2tdsi_2024.git
+Le chemin d’accès spécifié est introuvable.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git push --set-upstream origin sall_dew
+error: src refspec sall_dew does not match any
+error: failed to push some refs to 'https://github.com/catm2017/initiation_git_l2tdsi_2024.git'
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git push
+fatal: The current branch sall_dev has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin sall_dev
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git push --set-upstream origin sall_dew
+error: src refspec sall_dew does not match any
+error: failed to push some refs to 'https://github.com/catm2017/initiation_git_l2tdsi_2024.git'
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>git push --set-upstream origin sall_dev
+Enumerating objects: 116, done.
+Counting objects: 100% (116/116), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (51/51), done.
+Writing objects: 100% (116/116), 17.30 KiB | 656.00 KiB/s, done.
+Total 116 (delta 66), reused 108 (delta 63), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (66/66), done.
+remote:
+remote: Create a pull request for 'sall_dev' on GitHub by visiting:
+remote:      https://github.com/catm2017/initiation_git_l2tdsi_2024/pull/new/sall_dev
+remote:
+To https://github.com/catm2017/initiation_git_l2tdsi_2024.git
+ * [new branch]      sall_dev -> sall_dev
+branch 'sall_dev' set up to track 'origin/sall_dev'.
+
+C:\Users\DELL\initiation_git_l2tdsi_2024>
