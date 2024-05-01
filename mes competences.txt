@@ -1,3 +1,0 @@
-30% JavaScript
-60% Java
-70% php
