@@ -22,7 +22,7 @@
                             <ul class="navbar-nav">
                                 <li class="nav-item dropdown">
                                     <button class="px-3 btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                                        <img class="imgClass2" src="user.png">
+                                        <img class="imgClass2" src="../user.png">
                                     </button>
                                     <ul class="dropdown-menu dropdown-menu-info">
                                         <li>
