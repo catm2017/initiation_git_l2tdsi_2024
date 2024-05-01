@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-        <link rel="stylesheet" href="PageCSS2.css">
+        <link rel="stylesheet" href="../public/PageCSS2.css">
         <title>SOLOQUIZZ</title>
     </head>
     <body>
@@ -12,7 +12,7 @@
             <nav class="px-3 navbar navbar-expand-lg navbar-dark bg-dark fixed">
                 <div class="container row px-1 containerClass">
                     <div class="col">
-                        <a class="navbar-brand" href="#"><img class="imgClass1" src="Soloquizz.png"></a>
+                        <a class="navbar-brand" href="#"><img class="imgClass1" src="../Soloquizz.png"></a>
                     </div>
                     <div class="col divClass1">
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -109,7 +109,7 @@
                                     </div>
                                 </div>
     
-                                <form method="post" action="PageHTML.html" class="col-12">
+                                <form method="post" action="PageHTML.php" class="col-12">
                                     <div class="row mt-3 mt-md-0">
                                         <div class="col-6 mb-3">
                                             <input type="text" class="form-control" id="prenom" placeholder="Prénom">

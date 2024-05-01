@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-        <link rel="stylesheet" href="PageCSS1.css">
+        <link rel="stylesheet" href="../public/PageCSS1.css">
         <title>SOLOQUIZZ</title>
     </head>
     <body>
@@ -104,7 +104,7 @@
                                 <div class="center row bg-light divAdmin">
                                     <div class="col-4"><strong>Listes des adminstrateurs</strong></div>
                                     <div class="col-4"><strong>Nombre d'administrateurs 4</strong></div>
-                                    <div class="col-4 text-end"><a href="PageHTMLFormulaire.html" class="btn btn-outline-primary me-3"><span class="p-2">Ajouter un administrateur</span></a></div>
+                                    <div class="col-4 text-end"><a href="PageHTMLFormulaire.php" class="btn btn-outline-primary me-3"><span class="p-2">Ajouter un administrateur</span></a></div>
                                 </div>
                             </div>
 
