@@ -1,0 +1,100 @@
+.headerClasse{
+    position: fixed; width: 100%; top: 0;
+}
+.marge{
+    margin: auto;
+}
+.img{
+    width:30%; 
+    height: 5%; 
+    margin: 2px;
+}
+.icon{
+    margin-left: 100px;
+}
+.user{
+    width: 40px;
+    height: 40px; 
+    border-radius: 100%;
+}
+.white{
+    color: white;
+}
+.nav{
+    padding-left: 35px; 
+    margin-top: 70px; 
+    padding-top: 2px;
+    background: rgb(41, 98, 255);
+}
+.liste{
+    text-align: center;
+}
+.element{
+    color: rgb(255, 255, 255);
+}
+.elements{
+    color: rgb(199, 200, 200);
+}
+.taille{
+    width: auto;
+}
+.ligne{
+    justify-content: space-around; 
+    align-items: center; 
+    height: 100px;
+}
+.Etudiants{
+    margin-left: 75px; 
+    padding: 12px 0px; 
+    width:320px; 
+    color: rgb(109, 109, 109); 
+    border-left: 3px solid red; 
+    border-bottom-left-radius: 5px; 
+    border-top-left-radius: 5px;
+}
+.Certifications{
+    padding: 12px 0px; 
+    width: 320px; 
+    color: rgb(109, 109, 109);
+}
+.Classe{
+    margin-right: 75px; 
+    padding: 12px 0px; 
+    width: 320px; 
+    color: rgb(109, 109, 109);
+}
+.bg1{
+    padding: 15px 0px; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+.bg2{
+    margin-top: 20px; 
+    padding-bottom: 30px;
+}
+.table{
+    padding: 10px 10px; 
+    width: 900px; 
+    margin: auto;
+}
+.table1{
+    background: rgb(216, 216, 216); 
+    font-size: 15px; 
+    font-weight: bolder;
+}
+.ligneTable{
+    padding: 13px 8px;
+}
+.ligneTables{
+    text-decoration: none;
+}
+.colonneTable{
+    display: flex; margin: 20px 0px;
+}
+.navigation{
+    margin-left: 635px;
+}
+.footer{
+    background-color: rgb(64, 79, 104); 
+    padding: 2px;
+}
