@@ -1,0 +1,27 @@
+.headerClasse{position: fixed; width: 100%; top: 0;}
+.nav0div1{margin: auto;}
+.nav0div1col2{margin-left: 100px;}
+.im1{width:30%; height: 5%; margin: 2px;}
+.im_user{width: 40px; height: 40px; border-radius: 100%;}
+.div0{background: rgb(255, 255, 255);}
+.nav1{padding-left: 35px; margin-top: 70px; padding-top: 2px; background: rgb(41, 98, 255);}
+.lienNav{text-align: center;}
+.Tableau{color: rgb(255, 255, 255);}
+.Parametres{color: rgb(199, 200, 200);}
+.Certifications{color: rgb(199, 200, 200);}
+.Classes{color: rgb(199, 200, 200);}
+.div1{width: auto;}
+.div2{justify-content: space-around; align-items: center; height: 100px;}
+.div3{margin-left: 75px; padding: 12px 0px; width:320px; color: rgb    (109, 109, 109); border-left: 3px solid red; border-bottom-left-radius: 5px; border-top-left-radius: 5px;}
+.div4{padding: 12px 0px; width: 320px; color: rgb(109, 109, 109);}
+.div5{margin-right: 75px; padding: 12px 0px; width: 320px; color: rgb(109, 109, 109);}
+.div6{padding: 15px 0px; margin-top: 50px; margin-bottom: 50px;}
+.div7{margin-top: 20px; padding-bottom: 30px;}
+.div8{padding: 10px 10px; width: 900px; margin: auto;}
+.nav2{background: rgb(216, 216, 216); font-size: 15px; font-weight: bolder; }
+.nav2ol{padding: 13px 8px;}
+.nav2li1{text-decoration: none;}
+.nav2li2{text-decoration: none;}
+.div9{display: flex; margin: 20px 0px;}
+.nav3{margin-left: 635px;}
+.divfoot1{background-color: rgb(64, 79, 104); padding: 2px;}
