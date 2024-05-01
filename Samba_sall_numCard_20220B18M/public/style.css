@@ -1,0 +1,78 @@
+.headerClasse{
+    position: fixed; width: 100%; top: 0;
+}
+.soloquizz{
+    width:30%; 
+    height: 5%; 
+    margin: 2px;
+}
+.image{
+    width: 40px ;
+     height: 40px;
+      border-radius: 100%;
+}
+
+.sall{
+    margin-left: 100px;
+} 
+.les{
+    margin: auto;
+}
+.td{
+    background: rgb(255, 255, 255);
+}
+.tp{
+    padding-left: 35px; margin-top: 70px; padding-top: 2px; background: rgb(41, 98, 255);
+}
+.tp1{
+    color: rgb(255, 255, 255);
+}
+.tp2{
+    
+color: rgb(199, 200, 200);
+}
+.sam{
+    justify-content: space-around; align-items: center; height: 100px;
+}
+samba{
+    width: auto;
+}
+.sambasa{
+margin-left: 75px; padding: 12px 0px; width:320px; color: rgb(109, 109, 109); border-left: 3px solid red; border-bottom-left-radius: 5px; border-top-left-radius: 5px;
+}
+.td1{
+    padding: 12px 0px; width: 320px; color: rgb(109, 109, 109);
+}
+.td2{
+    margin-right: 75px; padding: 12px 0px; width: 320px; color: rgb(109, 109, 109);
+}
+.td3{
+    padding: 15px 0px; margin-top: 50px; margin-bottom: 50px;
+}
+.td4{
+    margin-top: 20px; padding-bottom: 30px;
+}
+.td5{
+    padding: 10px 10px; width: 900px; margin: auto;
+}
+.tp6{
+    background: rgb(216, 216, 216); font-size: 15px; font-weight: bolder;
+}
+.td7{
+    padding: 13px 8px;
+}
+.td8{
+    text-decoration: none;
+}
+.td9{
+    text-decoration: none;
+}
+.td10{
+    display: flex; padding: 20px 0px; background: rgb(198, 198, 198);
+}
+.TD{
+     background-color: rgb(64, 79, 104); padding: 2px;
+}
+.td11{
+    margin-left: 635px;
+}
