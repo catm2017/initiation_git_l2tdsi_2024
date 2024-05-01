@@ -1,4 +1,5 @@
-"Numéro carte, Prénom, Nom, Option"
+"NumÃ©ro carte, PrÃ©nom, Nom, Option"
+20220BG6D Mamadou Moustapha DIAW MCS
 20220BG6F  Mame Maguette DIOUCK MCS
 20220BC5T Thierno Souleymane Mbengue MCS
 20220BG6N Mouhamed Amina DIOUF CI
