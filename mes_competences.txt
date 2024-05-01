@@ -1,6 +1,0 @@
-20220B0FD Mairam Baidy Sow MCS
-java 50 %
-javascript 45%
-php 60 %
-base de donnees 70%
-
