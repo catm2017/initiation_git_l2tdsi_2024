@@ -1,0 +1,145 @@
+/* Styles CSS provenant du code HTML */
+
+/* Styles pour le header */
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+/* Styles pour les liens de navigation */
+.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+/* Styles pour le bouton du menu déroulant */
+.navbar-toggler-icon {
+    color: rgb(255, 255, 255);
+}
+
+/* Styles pour le dropdown du profil utilisateur */
+.dropdown-menu-info {
+    background-color: rgb(255, 255, 255);
+}
+
+/* Styles pour les colonnes du tableau de bord */
+.col {
+    margin-left: 100px;
+}
+
+/* Styles pour les boutons et images dans le header */
+.navbar-brand img {
+    width: 30%;
+    height: 5%;
+    margin: 2px;
+}
+
+/* Styles pour les boutons dans le dropdown du profil utilisateur */
+.dropdown-toggle img {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+/* Styles pour les éléments de formulaire */
+.form-control {
+    background: rgb(198, 198, 198);
+    color: rgb(109, 109, 109);
+}
+
+/* Styles pour les boutons */
+.btn {
+    border-radius: 5px;
+}
+
+/* Styles pour les éléments de navigation */
+.nav-item {
+    margin-right: 15px;
+}
+
+/* Styles pour les éléments du footer */
+footer {
+    background-color: rgb(64, 79, 104);
+    padding: 2px;
+}
+
+/* Styles pour le texte dans le footer */
+.footer-text {
+    color: #fff;
+    text-align: center;
+}
+
+/* Autres styles CSS... */
+/* Styles CSS provenant du code HTML */
+
+/* Styles pour le header */
+.headerClasse {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+/* Styles pour les liens de navigation */
+.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+/* Styles pour le bouton du menu déroulant */
+.navbar-toggler-icon {
+    color: rgb(255, 255, 255);
+}
+
+/* Styles pour le dropdown du profil utilisateur */
+.dropdown-menu-info {
+    background-color: rgb(255, 255, 255);
+}
+
+/* Styles pour les colonnes du tableau de bord */
+.col {
+    margin-left: 100px;
+}
+
+/* Styles pour les boutons et images dans le header */
+.navbar-brand img {
+    width: 30%;
+    height: 5%;
+    margin: 2px;
+}
+
+/* Styles pour les boutons dans le dropdown du profil utilisateur */
+.dropdown-toggle img {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+/* Styles pour les éléments de formulaire */
+.form-control {
+    background: rgb(198, 198, 198);
+    color: rgb(109, 109, 109);
+}
+
+/* Styles pour les boutons */
+.btn {
+    border-radius: 5px;
+}
+
+/* Styles pour les éléments de navigation */
+.nav-item {
+    margin-right: 15px;
+}
+
+/* Styles pour les éléments du footer */
+footer {
+    background-color: rgb(64, 79, 104);
+    padding: 2px;
+}
+
+/* Styles pour le texte dans le footer */
+.footer-text {
+    color: #fff;
+    text-align: center;
+}
+
+/* Autres styles CSS... */
+
