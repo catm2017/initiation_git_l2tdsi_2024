@@ -1,3 +1,0 @@
-20210ACPC Ndeye Mareme Diongue CI
-PHP 50%
-MYSQL 50%

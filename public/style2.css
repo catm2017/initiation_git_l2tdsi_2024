@@ -1,0 +1,141 @@
+
+body
+{
+    overflow-x: hidden;
+}
+
+.headerClass
+{
+    position: fixed; 
+    width: 100%; 
+    top: 0;
+}
+
+.containerClass
+{
+    margin: auto;
+}
+
+.imgClass1
+{
+    width:30%; 
+    height: 5%; 
+    margin: 2px;
+}
+
+.divClass1
+{ 
+    margin-left: 100px;
+}
+
+.imgClass2
+{
+    width: 40px; 
+    height: 40px; 
+    border-radius: 100%;
+}
+
+.navClass1
+{
+    z-index: relative;
+    padding-left: 35px; 
+    margin-top: 70px; 
+    padding-top: 2px; 
+    background: rgb(41, 98, 255);
+}
+
+.ulClass1
+{
+    text-align: center;
+}
+
+.ul_a_Class1
+{
+    color: rgb(199, 200, 200);
+}
+
+.navClass2 
+{
+    margin-left: 635px;
+}
+
+.divClass2
+{
+    background-color: rgb(64, 79, 104); 
+    padding: 2px;
+}
+
+.divClass3
+{
+    margin-left: 75px; 
+    padding: 12px 0px; 
+    width:320px; 
+    color: rgb(109, 109, 109); 
+    border-left: 3px solid red; 
+    border-bottom-left-radius: 5px; 
+    border-top-left-radius: 5px;
+}
+
+.divClass4
+{
+    padding: 12px 0px; 
+    width: 320px; 
+    color: rgb(109, 109, 109);
+}
+
+.divClass5
+{
+    margin-right: 75px; 
+    padding: 12px 0px; 
+    width: 320px; 
+    color: rgb(109, 109, 109);
+}
+
+.divAdmin
+{
+    display: flex; 
+    margin: 20px 0px;
+}
+
+.divBreakClass1
+{
+    padding: 15px 0px; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+
+.divBreakClass2
+{
+    margin-top: 20px; 
+    padding-bottom: 30px;
+}
+
+.divBreakClass3 
+{
+    padding: 10px 10px; 
+    width: 900px; 
+    margin: auto;
+}
+
+.divBreakClass4
+{
+    background: rgb(216, 216, 216); 
+    font-size: 15px; 
+    font-weight: bolder;
+}
+
+.divBreakClass5
+{
+    padding: 13px 8px;
+}
+
+.divBreakClass6
+{
+    text-decoration: none;
+}
+
+.divClassB
+{
+    justify-content: space-around; 
+    align-items: center; height: 100px;
+}
