@@ -1,5 +1,1 @@
-# initiation_git_l2tdsi_2024
-Initiation à Git
-Programme Dev Web L2TDSI 
-1- Initiation à Git
-2- Initiation PHP
+Lorsque nous changons l'extension desfichiers en .php, le serveur Web traite ce fichier comme un script PHP et non comme un simple fichier HTML ou CSS raison pour laquelle ya des modifications au niveu de la page .
