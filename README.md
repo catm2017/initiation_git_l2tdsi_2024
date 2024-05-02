@@ -17,3 +17,4 @@ elles fonctionnement comme avec les pages .html(cliquer sur le button qui affich
 8. Une fois terminé expliquer brièvement l'effet de vos classes css dans une le fichier
 README.md dans votre branche.
 9. Après pusher le projet dans votre branche sur le repository
+10. tester
