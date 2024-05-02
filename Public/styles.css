@@ -1,0 +1,128 @@
+.headerClasse {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.logo {
+    width: 30%;
+    height: 5%;
+    margin: 2px;
+}
+
+.user-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+.nav-toggler {
+    margin-left: 100px;
+}
+
+.main-nav {
+    padding-left: 35px;
+    margin-top: 70px;
+    padding-top: 2px;
+    background: rgb(41, 98, 255);
+}
+
+.main-ul {
+    text-align: center;
+}
+
+.link-Tb {
+    color: rgb(255, 255, 255);
+}
+
+.link-drop {
+    color: rgb(199, 200, 200);
+}
+
+.div-section2 {
+    width: auto;
+
+}
+
+.div-section2_main {
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+.div_etud {
+    margin-left: 75px;
+    padding: 12px 0px;
+    width: 320px;
+    color: rgb(109, 109, 109);
+    border-left: 3px solid red;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.div_cert {
+    padding: 12px 0px;
+    width: 320px;
+    color: rgb(109, 109, 109);
+}
+
+.div_clas {
+    margin-right: 75px;
+    padding: 12px 0px;
+    width: 320px;
+    color: rgb(109, 109, 109);
+}
+
+.div_link {
+    padding: 15px 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.div-link_containe {
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+.div-link_containe2 {
+    padding: 10px 10px;
+    width: 900px;
+    margin: auto;
+}
+
+.nav-section2 {
+    background: rgb(216, 216, 216);
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.nav-section2_ol {
+    padding: 13px 8px;
+}
+
+.nav-section2_ol-link {
+    text-decoration: none;
+}
+
+.div-section2_1 {
+    display: flex;
+    margin: 20px 0px;
+    /* background: rgb(198, 198, 198); */
+}
+.div-section2_11{
+    display: flex;
+    padding: 20px 0px;
+     background: rgb(198, 198, 198); 
+     color: black;
+
+}
+
+.page-nav1{
+    margin-left: 635px;
+}
+
+.footer {
+    background-color: rgb(64, 79, 104);
+    padding: 2px;
+}
+
