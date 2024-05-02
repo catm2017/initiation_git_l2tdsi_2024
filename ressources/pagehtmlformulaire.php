@@ -107,10 +107,17 @@
                                     </div>
                                 </div>
     
+<<<<<<< HEAD
                                 <form method="post" action="Pagehtml.php" class="col-12">
                                     <div class="row mt-3 mt-md-0">
                                         <div class="col-6 mb-3">
                                             <input type="text" class="form-control" id="prenom" placeholder="Prenom">
+=======
+                                <form method="post" action="pagehtml.php" class="col-12">
+                                    <div class="row mt-3 mt-md-0">
+                                        <div class="col-6 mb-3">
+                                            <input type="text" class="form-control" id="prenom" placeholder="Prénom">
+>>>>>>> 7e061641b27f85ad0857342a781ae17c3f0240e6
                                         </div>
                                         <div class="col-6 mb-3">
                                             <input type="text" class="form-control" id="nom" placeholder="Nom">
@@ -145,9 +152,15 @@
          <!--Footer 2-->
             <div style="background-color: rgb(64, 79, 104); padding: 2px;">
               <div class="container">
+<<<<<<< HEAD
                   <p class="text-white text-center"><span>Ministerer de l'enseignement superieur, de la Recherche et de l'innovation <span class="text-primary">(MESRI)</span></span><br/>
                   <span>Universite Cheikh Anta Diop de DAKAR <span class="text-primary">(UCAD)</span></span><br/>
                   <span>Transmission des donnees et securites de linformation <span class="text-primary">(TDSI)</span></span></p>
+=======
+                  <p class="text-white text-center"><span>Ministèrer de l'enseignement supérieur, de la Recherche et de l'innovation <span class="text-primary">(MESRI)</span></span><br/>
+                  <span>Université Cheikh Anta Diop de DAKAR <span class="text-primary">(UCAD)</span></span><br/>
+                  <span>Transmission des données et sécurités de linformation <span class="text-primary">(TDSI)</span></span></p>
+>>>>>>> 7e061641b27f85ad0857342a781ae17c3f0240e6
               </div>
             </div>
     </footer>

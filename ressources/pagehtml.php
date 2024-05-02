@@ -49,7 +49,11 @@
         </nav>
     </header>
     <div class="bg-light">
+<<<<<<< HEAD
         
+=======
+        <!-- <hr class="bg-primary" style="color: white;"> -->
+>>>>>>> 7e061641b27f85ad0857342a781ae17c3f0240e6
         <nav style="padding-left: 35px; margin-top: 70px; padding-top: 2px; background: rgb(41, 98, 255);" class="navbar navbar-expand-lg">
             <div class="container">
                 <div class="container-fluid row">
@@ -109,7 +113,11 @@
     <div style="display: flex; margin: 20px 0px;" class="center row bg-light">
         <div class="col-4"><strong>Listes des adminstrateurs</strong></div>
         <div class="col-4"><strong>Nombre d'administrateurs 4</strong></div>
+<<<<<<< HEAD
         <div class="col-4 text-end"><a href="Pagehtmlformulaire.php" class="btn btn-outline-primary me-3"><span class="p-2">Ajouter un administrateur</span></a></div>
+=======
+        <div class="col-4 text-end"><a href="pagehtmlformulaire.php" class="btn btn-outline-primary me-3"><span class="p-2">Ajouter un administrateur</span></a></div>
+>>>>>>> 7e061641b27f85ad0857342a781ae17c3f0240e6
     </div>
 </div>
 
@@ -157,10 +165,17 @@
 </div>
 </div>
 <footer>
+<<<<<<< HEAD
 
     <div style="background-color: rgb(64, 79, 104); padding: 2px;">
       <div class="container">
           <p class="text-white text-center"><span>Ministerer de l'enseignement superieur, de la Recherche et de l'innovation <span class="text-primary">(MESRI)</span></span><br/>
+=======
+<!--Footer 2-->
+    <div style="background-color: rgb(64, 79, 104); padding: 2px;">
+      <div class="container">
+          <p class="text-white text-center"><span>Ministre de l'enseignement superieur, de la Recherche et de l'innovation <span class="text-primary">(MESRI)</span></span><br/>
+>>>>>>> 7e061641b27f85ad0857342a781ae17c3f0240e6
           <span>Universite Cheikh Anta Diop de DAKAR <span class="text-primary">(UCAD)</span></span><br/>
           <span>Transmission des donnees et securites de linformation <span class="text-primary">(TDSI)</span></span></p>
       </div>
