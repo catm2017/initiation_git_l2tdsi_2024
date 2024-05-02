@@ -1,0 +1,140 @@
+
+body
+{
+    overflow-x: hidden;
+}
+
+.header{
+    position: fixed; 
+    width: 100%; 
+    top: 0;
+}
+
+.containerMaClasse
+{
+    margin: auto;
+}
+
+.image1
+{
+    width:30%; 
+    height: 5%; 
+    margin: 2px;
+}
+
+.Maclasse
+{ 
+    margin-left: 100px;
+}
+
+.image2
+{
+    width: 40px; 
+    height: 40px; 
+    border-radius: 100%;
+}
+
+.nav1
+{
+    z-index: relative;
+    padding-left: 35px; 
+    margin-top: 70px; 
+    padding-top: 2px; 
+    background: rgb(41, 98, 255);
+}
+
+.Class1
+{
+    text-align: center;
+}
+
+.Class2
+{
+    color: rgb(199, 200, 200);
+}
+
+.navClass2 
+{
+    margin-left: 635px;
+}
+
+.divClass2
+{
+    background-color: rgb(64, 79, 104); 
+    padding: 2px;
+}
+
+.divClass3
+{
+    margin-left: 75px; 
+    padding: 12px 0px; 
+    width:320px; 
+    color: rgb(109, 109, 109); 
+    border-left: 3px solid red; 
+    border-bottom-left-radius: 5px; 
+    border-top-left-radius: 5px;
+}
+
+.divClass4
+{
+    padding: 12px 0px; 
+    width: 320px; 
+    color: rgb(109, 109, 109);
+}
+
+.divClass5
+{
+    margin-right: 75px; 
+    padding: 12px 0px; 
+    width: 320px; 
+    color: rgb(109, 109, 109);
+}
+
+.divAdministrateur
+{
+    display: flex; 
+    margin: 20px 0px;
+}
+
+.divAClass1
+{
+    padding: 15px 0px; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+
+.divAClass2
+{
+    margin-top: 20px; 
+    padding-bottom: 30px;
+}
+
+.divAClass3 
+{
+    padding: 10px 10px; 
+    width: 900px; 
+    margin: auto;
+}
+
+.divAClass4
+{
+    background: rgb(216, 216, 216); 
+    font-size: 15px; 
+    font-weight: bolder;
+}
+
+.divAClass5
+{
+    padding: 13px 8px;
+}
+
+.divAClass6
+{
+    text-decoration: none;
+}
+
+.divClassB
+{
+    justify-content: space-around; 
+    align-items: center; height: 100px;
+}
